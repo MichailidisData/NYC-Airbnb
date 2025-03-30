@@ -25,7 +25,7 @@ We can see that column 'rating' has data type object. I decide not to change it 
 
 ## Exploratory Data Analysis (EDA)
 
-Average price per night is around $188, but we can see that minimum is 10$ and maximum is $100000.
+Average price per night is around $188, but we can see that the minimum is $10 and the maximum is $100000.
 
 We can see that this dataset has outliers from the boxplot we create. That's why we focused on prices under $2000.
 
